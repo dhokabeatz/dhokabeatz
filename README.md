@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Software & hardware related projects**
 
-- 🤝 I’m looking for help with **Backend in Django & Dashboard designs for companies**
+- 🤝 I’m looking for help with **Front page designing for my modules**
 
 - 👨‍💻 All of my projects are available at [http://github.io/dhokabeatz](http://github.io/dhokabeatz)
 
