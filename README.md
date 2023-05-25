@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any application development project**
 
-- 🤝 I’m looking for help with [in designing frontend pages for my application](http://github.com/dhokabeatz)
+- 🤝 I’m looking for help [in designing frontend pages for my application](http://github.com/dhokabeatz)
 
 - 👨‍💻 All of my projects are available at [http://github.com/dhokabeatz](http://github.com/dhokabeatz)
 
