@@ -79,4 +79,4 @@
 [youtube]: https://www.youtube.com/channel/UC1eSEPYaR-Wv6a0AM8czNWA
 [dev_to]: https://https://dev.to/dhokabeatz
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Rajaniraiyn" height="25px">
+<img align="right" src="https://komarev.com/ghpvc/?username=dhokabeatz" height="25px">
