@@ -61,7 +61,7 @@
 
 <div align="left">
   
-  [<img align="middle" alt="Rajaniraiyn | Portfolio" width="40px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
+  [<img align="middle" alt="dhokabeatz | Portfolio" width="40px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
   [<img align="middle" alt="Rajaniraiyn | LinkedIn" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
   [<img align="middle" alt="Rajaniraiyn | Twitter" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
   [<img align="middle" alt="Rajaniraiyn | Instagram" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
@@ -71,12 +71,11 @@
   
   </div>
 
-[website]: https://dub.sh/raja-portfolio
-[linkedin]: https://dub.sh/raja-linkedin
-[twitter]: https://dub.sh/raja-tweet
-[instagram]: https://dub.sh/raja-insta
-[codepen]: https://dub.sh/raja-codepen
+[website]: https://dhokabeatz.github.io
+[linkedin]: https://linkedin.com/in/dhokabeatz
+[twitter]: https://twitter.com/dhokabeatz_
+[instagram]: https://instagram.com/dhokabeatz
 [youtube]: https://dub.sh/raja-youtube
-[dev_to]: https://dub.sh/raja-dev-to
+[dev_to]: https://](https://dev.to/dhokabeatz
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Rajaniraiyn" height="25px">
