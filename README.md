@@ -62,12 +62,12 @@
 <div align="left">
   
   [<img align="middle" alt="dhokabeatz | Portfolio" width="40px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
-  [<img align="middle" alt="Rajaniraiyn | LinkedIn" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
-  [<img align="middle" alt="Rajaniraiyn | Twitter" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
-  [<img align="middle" alt="Rajaniraiyn | Instagram" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
-  [<img align="middle" alt="Rajaniraiyn | Codepen" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" />][codepen]
-  [<img align="middle" alt="Rajaniraiyn | Youtube" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" />][youtube]
-  [<img align="middle" alt="Rajaniraiyn | Dev Community" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" />][dev_to]
+  [<img align="middle" alt="dhokabeatz | LinkedIn" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
+  [<img align="middle" alt="dhokabeatz | Twitter" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
+  [<img align="middle" alt="dhokabeatz | Instagram" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
+  [<img align="middle" alt="dhokabeatz | Codepen" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" />][codepen]
+  [<img align="middle" alt="dhokabeatz | Youtube" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" />][youtube]
+  [<img align="middle" alt="dhokabeatz | Dev Community" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" />][dev_to]
   
   </div>
 
@@ -75,7 +75,6 @@
 [linkedin]: https://linkedin.com/in/dhokabeatz
 [twitter]: https://twitter.com/dhokabeatz_
 [instagram]: https://instagram.com/dhokabeatz
-[youtube]: https://dub.sh/raja-youtube
 [dev_to]: https://](https://dev.to/dhokabeatz
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Rajaniraiyn" height="25px">
