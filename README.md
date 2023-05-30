@@ -75,6 +75,7 @@
 [linkedin]: https://linkedin.com/in/dhokabeatz
 [twitter]: https://twitter.com/dhokabeatz_
 [instagram]: https://instagram.com/dhokabeatz
-[dev_to]: https://](https://dev.to/dhokabeatz
+[dev_to]: https://https://dev.to/dhokabeatz
+.[codepen]: https://codepen.io/dhokabeatz
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Rajaniraiyn" height="25px">
