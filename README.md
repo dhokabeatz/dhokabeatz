@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on - [AirBnB clone](https://www.github.com/dhokabeatz/AirBnB_clone_v2), ALXSE 🤫, and many more under the hood
+- 🔭 I’m currently working on - [Zindi Ai Challenge]((https://@github.com/dhokabeatz/Artificial_Intelligence_Challenges_Zindi.git)), ALXSE 🤫, and many more under the hood
 - 🌱 Right now, I'm learning from everyone and everything around me. 😎 
 - 👯 In order to reshape the world, I want to work with nice individuals. 🌏
 - 💬 Ask me about - Web Dev, Python, Django, Sass, Database, Software Engineering, Development Tooling, New Tech, AI/ML, Web3, 😉
