@@ -2,7 +2,7 @@
 
 # Hi, I'm _Henry_ <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="60px" align="middle" />
   
-## In short, Software Engineering Enthusiast and an Internet Activist with Passion for Everything!
+## In short, Software Engineering Practitioner and an Internet Activist with Passion for Everything!
   
   Software engineer who is self-taught, meticulous, and erudite and who has a strong commitment to an open, accessible, and responsive online. a proponent and active participant in the open source community. worked with so many people.
   
@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on - [Zindi Ai Challenge]((https://@github.com/dhokabeatz/Artificial_Intelligence_Challenges_Zindi.git)), ALXSE 🤫, and many more under the hood
+- 🔭 I’m currently working on - [DocStream](([https://@github.com/dhokabeatz/Artificial_Intelligence_Challenges_Zindi.git)](https://github.com/dhokabeatz/DocStream.git)), ALXSE 🤫, and many more under the hood
 - 🌱 Right now, I'm learning from everyone and everything around me. 😎 
 - 👯 In order to reshape the world, I want to work with nice individuals. 🌏
 - 💬 Ask me about - Web Dev, Python, Django, Sass, Database, Software Engineering, Development Tooling, New Tech, AI/ML, Web3, 😉
