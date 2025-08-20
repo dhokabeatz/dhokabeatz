@@ -15,7 +15,7 @@ Also an active open-source contributor and advocate for collaboration. 🌍
 - 🔭 I’m currently building a **Mobile Money Supervision Platform** on AWS (Serverless + Microservices).
 - 🌱 Currently deepening my skills in **TypeScript, NestJS, AWS SAM, and event-driven architectures**.
 - 👯 Looking forward to collaborating on **Cloud-Native, AI/ML, and FinTech projects**.
-- 💬 Ask me about **NestJS, AWS (Lambda, Cognito, DynamoDB, SQS, OpenSearch), Microservices, Serverless Framework, TypeScript, and Cloud Architecture**.
+- 💬 Ask me about **NestJS, Express, Django, AWS (Lambda, Cognito, DynamoDB, ECS, EBS, SQS, Amplify, OpenSearch), Microservices, Serverless Framework, TypeScript, and Cloud Architecture**.
 - 🥅 Lifelong learner, always seeking to grow while helping others grow. 🆕
 - ⚡ Fun fact: I enjoy turning complex system designs into simple, elegant solutions. 😅  
 
@@ -37,11 +37,16 @@ Also an active open-source contributor and advocate for collaboration. 🌍
 
   ### Backend / Cloud  
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
   ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
   ![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
   ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
   ![SQS](https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
   ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazon-aws&logoColor=white)
+  ![ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+  ![EBS](https://img.shields.io/badge/AWS%20EBS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white)
   ![Serverless Framework](https://img.shields.io/badge/serverless-FD5750?style=flat&logo=serverless&logoColor=white)
   ![AWS SAM](https://img.shields.io/badge/AWS%20SAM-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
