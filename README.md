@@ -5,7 +5,7 @@
 ## Software Engineer | Cloud & Backend Developer | AWS Microservices Enthusiast 🚀
 
 Self-taught and meticulous engineer with a strong commitment to building scalable, serverless, and cloud-native solutions.  
-I specialize in **NestJS, AWS Microservices, and Serverless Architectures**, blending **TypeScript, DevOps, and AI/ML** to solve real-world problems.  
+I specialize in **Node.JS, AWS Microservices, and Serverless Architectures**, blending **TypeScript, DevOps, and AI/ML** to solve real-world problems.  
 Also an active open-source contributor and advocate for collaboration. 🌍  
 
 </div>
