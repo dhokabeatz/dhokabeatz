@@ -4,7 +4,7 @@
 
 **Backend Engineer • Cloud & Security • AI‑powered SaaS**
 
-> Software Engineer | Cloud & Backend Developer | AWS Microservices Enthusiast 🚀  
+> Software Engineer | Cloud & Backend Developer | AWS Microservices Enthusiast  
 > Pronouns: he/him/his
 
 </div>
@@ -40,12 +40,7 @@ Professional, production-focused tooling and platforms I use regularly:
 ---
 
 ## 💡 Featured / Pinned projects
-(Provide repo links and a 1–2 line description for each and I'll fill these in.)
-
-- Repo 1 — short description
-- Repo 2 — short description
-- Repo 3 — short description
-
+Loading
 ---
 
 ## 📫 Contact & platforms
@@ -56,7 +51,7 @@ Professional, production-focused tooling and platforms I use regularly:
 
 ---
 
-## 🧭 How I can help / collaborate
+## 🧭 How can I help/collaborate
 - Building backend services and APIs that scale and are secure by design
 - Designing serverless & microservice architectures for new SaaS features
 - Implementing observability, CI/CD, and production readiness for teams
