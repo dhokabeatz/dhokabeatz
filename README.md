@@ -1,6 +1,10 @@
-# Hi — I'm Henry Agyemang 👋 (dhokabeatz)
+<div align="center">
 
-> Software Engineer • Backend engineer focused on building scalable, secure, AI‑powered SaaS platforms  
+# Hi, I'm _Henry_ <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="60px" align="middle" />
+
+**Backend Engineer • Cloud & Security • AI‑powered SaaS**
+
+> Software Engineer | Cloud & Backend Developer | AWS Microservices Enthusiast 🚀  
 > Pronouns: he/him/his
 
 [![Profile views](https://komarev.com/ghpvc/?username=dhokabeatz&color=0e75b6)](https://github.com/dhokabeatz)
@@ -8,12 +12,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhokabeatz&layout=compact&theme=tokyonight)](https://github.com/dhokabeatz)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhokabeatz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/dhokabeatz)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=dhokabeatz&theme=onedark)](https://github.com/dhokabeatz)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhokabeatz&theme=tokyonight)](https://github.com/dhokabeatz)
+
+</div>
 
 ---
 
 ## 👨‍💻 About
-I'm a backend-focused Software Engineer who builds scalable, high-security, AI-enabled SaaS platforms. I work across microservices and serverless architectures and enjoy turning ambiguous ideas into production-ready products. Currently building tools for Acadian businesses around automation, ERP, and AI.
+Backend-focused Software Engineer building scalable, secure, AI-enabled SaaS platforms. I design microservices and serverless systems that turn ambiguous ideas into production-ready products. Currently building tools for Acadian businesses around automation, ERP, and AI.
 
 - 🔭 Currently building: automation, ERP, and AI tooling for Acadian businesses
 - 🌱 Learning: production-grade MLOps, distributed tracing, and advanced cloud security
@@ -26,7 +31,7 @@ Professional, production-focused tooling and platforms I use regularly:
 
 - Cloud & Infra: AWS (Lambda, ECS, RDS), serverless frameworks, Terraform
 - Languages & Runtimes: Node.js (NestJS, Express), Python
-- Containerization & Orchestration: Docker, container best practices
+- Containerization: Docker
 - Architecture: Microservices, event-driven systems, serverless patterns, API design (REST & GraphQL)
 - Data & Middleware: PostgreSQL, Redis, message queues (SQS/Kafka)
 - DevOps & Observability: GitHub Actions, CI/CD, Prometheus, Grafana, distributed tracing
@@ -34,8 +39,12 @@ Professional, production-focused tooling and platforms I use regularly:
 
 ---
 
-## 💡 Projects & work
-I haven't listed specific repositories yet. When you provide 3–5 favorites or link the repos, I'll add concise summaries and highlights (tech stack, role, notable metrics). If you'd like, I can automatically surface recent repos or pinned projects from your account.
+## 💡 Featured / Pinned projects
+(Provide repo links and a 1–2 line description for each and I'll fill these in.)
+
+- Repo 1 — short description
+- Repo 2 — short description
+- Repo 3 — short description
 
 ---
 
@@ -57,8 +66,8 @@ I haven't listed specific repositories yet. When you provide 3–5 favorites or 
 ## ❤️ Support & misc
 If you find my work useful:
 - ⭐ Star repositories you like
-- ☕ Buy me a coffee: https://buymeacoffee.com/dhokabeatz (update if you use a different support link)
+- ☕ Buy me a coffee: https://buymeacoffee.com/dhokabeatz
 
 ---
 
-Thanks for visiting — feel free to reach out on GitHub or any of the platforms above.
+Thanks for visiting — feel free to review the branch and tell me if you want any further edits or for me to open the pull request.
