@@ -7,13 +7,13 @@
 > Software Engineer | Cloud & Backend Developer | AWS Microservices Enthusiast 🚀  
 > Pronouns: he/him/his
 
+</div>
+
 [![Profile views](https://komarev.com/ghpvc/?username=dhokabeatz&color=0e75b6)](https://github.com/dhokabeatz)
 [![Followers](https://img.shields.io/github/followers/dhokabeatz?label=Follow&style=for-the-badge)](https://github.com/dhokabeatz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhokabeatz&layout=compact&theme=tokyonight)](https://github.com/dhokabeatz)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhokabeatz&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/dhokabeatz)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=dhokabeatz&theme=onedark)](https://github.com/dhokabeatz)
-
-</div>
 
 ---
 
