@@ -63,7 +63,7 @@ Professional, production-focused tooling and platforms I use regularly:
 
 ---
 
-## ❤��� Support & misc
+## ❤️ Support & misc
 If you find my work useful:
 - ⭐ Star repositories you like
 - ☕ Buy me a coffee: https://buymeacoffee.com/dhokabeatz
